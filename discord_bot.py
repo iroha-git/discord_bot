@@ -1353,6 +1353,6 @@ async def queue(ctx, url: str):
     print("Bot Status: Song added to queue")
 
 
-TOKEN = 'ODA0NzE1NzAwMzEyNjA0Njkz.YBQX5Q.6_8oR2CLLLxL1LOsLEZ7OT-LjcE'
+TOKEN = 'Token name'
 
 client.run(TOKEN)
